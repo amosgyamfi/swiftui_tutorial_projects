@@ -1,6 +1,4 @@
-Copy/paste SwiftUI designs and UI elements crafted based on the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/components) with inspiration from [Ant Design](https://ant.design) and [daisyUI](https://daisyui.com). Grab designs with different variants, sizes and states, like buttons,checkboxes, tooltip, form, input, time picker, and more for your projects and tweak them to your needs. The Xcode project has weekly updates. If you have a specific designs in mind, contact [@amos_gyamfi](@amos_gyamfi) on X to add them.  
-
-
+Create SwiftUI designs and animations with nothing but plain English. Discover tips, tricks, techniques, and hidden gems in describing/prompting SOTA models like Claude Sonnet 4, OpenAI o3, and Gemini 2.5 Pro to get accurate/satisfactory results for SwiftUI.
 
 
 
